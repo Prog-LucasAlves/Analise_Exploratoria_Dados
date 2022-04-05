@@ -1,4 +1,4 @@
-# Analise_Exploratoria_Dados
-Análise Exploratória de Dados
+# Analise Exploratoria Dados
+- Espaço utilizado para realizar a análise exploratória de dados de alguns datasets
 
-# Lucas
+* 1 Segurança Publica do Estado do Rio de Janeiro
