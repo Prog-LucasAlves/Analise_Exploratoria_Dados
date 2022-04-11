@@ -5,4 +5,3 @@
 
 ### Objetivo:
 * Realizar a carga e transformação(se necessário) dos dados utilizando o pandas, e tentar tirar algumas informações dos dados.
-
