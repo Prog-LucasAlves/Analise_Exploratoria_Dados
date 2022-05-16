@@ -1,0 +1,23 @@
+Criando um Plano de Análise de Dados
+
+1 Definição do Objetivo:
+- O queremos analisar?
+- Quais perguntas de negócio devem ser respondidas
+- Quais problemas estamos tentando resolver
+
+2 Coleta e Extração de Dados
+- Coletar dados de fontes de dados exixtentes ou extarir dados de outras fontes.
+
+3 Escolher as ferramentas
+- Quais serão as ferramentas utilizadas?
+- SQL | Python ou alguma outra opção
+
+4 Aplicação das Técnicas de Análise
+- Análise exploratória dos dados
+- Estatística descritiva
+- Agregação e sumariazação 
+- Estatística inferencial
+
+5 Entrega dos resultados
+- Relatório
+- Gráficos e Tabelas
