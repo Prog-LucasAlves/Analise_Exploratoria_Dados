@@ -7,6 +7,8 @@
 
 2 - Census Income. [Census Income](https://github.com/Prog-LucasAlves/Analise_Exploratoria_Dados/tree/main/AED_02_Census_Income)
 
+3 - Preços do GLP. [GLP]()
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Prog-LucasAlves/Analise_Exploratoria_Dados)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Prog-LucasAlves/Analise_Exploratoria_Dados)
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/Prog-LucasAlves/Analise_Exploratoria_Dados/main)
