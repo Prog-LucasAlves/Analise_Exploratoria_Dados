@@ -1,6 +1,20 @@
-Fluxo da Limpeza de Dados
+# Fluxo da Limpeza de Dados
 
 - Inspeção(Exploração dos Dados)
 - Limpeza
 - Verificação
 - Relatório
+
+
+Obs.: Justificar a decisão
+
+# Técnicas de Limpeza de Dados
+
+- Remover dados irrelevantes
+- Remover dados duplicados
+- Converter tipos de dados
+- Corrigir erros de digitação ou formato(exemplo: SP, S.Paulo, São Paulo)
+- Remover espaços ou zeros desnecessários(exemplo: converter de 000414 para 414)
+- Tratar valores ausentes(remoção, imputação)
+- Tratar valores outliers(valores extremos)
+- Padronizar / Normalizar dados
