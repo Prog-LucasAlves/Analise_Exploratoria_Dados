@@ -9,7 +9,7 @@
 
 3 - Reclamações Consumidor Gov-BR. [Consumidor](https://github.com/Prog-LucasAlves/Analise_Exploratoria_Dados/tree/main/AED_03_Consumidor_Gov_Br)
 
-4 - Cotações de Ações listadas na B3. [Ações]()
+4 - Cotações de Ações listadas na B3. [Ações](https://github.com/Prog-LucasAlves/Analise_Exploratoria_Dados/tree/main/AED_04_A%C3%A7%C3%B5es_B3)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Prog-LucasAlves/Analise_Exploratoria_Dados)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Prog-LucasAlves/Analise_Exploratoria_Dados)
