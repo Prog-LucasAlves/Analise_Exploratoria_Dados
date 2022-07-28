@@ -1,3 +1,7 @@
+# Sobre min:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalves-ast/)](https://www.linkedin.com/in/lucasalves-ast/)
+
 # Análise Exploratória de Dados
 - Espaço utilizado para realizar a análise exploratória de dados de alguns datasets
 
